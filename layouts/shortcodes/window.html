@@ -1,0 +1,17 @@
+
+{{- $name := .Get "name" | default "window" | markdownify}}
+{{- $ico := .Get "icon" | default "X" | markdownify}}
+
+<div class="window">
+    <div class="window_upper">
+        <div>
+        {{$name}}
+        </div>
+        <div>
+        {{$ico}}
+        </div>
+    </div>
+    <div class="window_lower">
+          {{ .Inner | markdownify }}
+    </div>
+</div>

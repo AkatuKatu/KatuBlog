@@ -1,0 +1,42 @@
+.div_row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap:1rem;
+}
+
+.div_column{
+    width: 48%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.prueba3{
+    background-color: purple;
+    height: 100px;
+    border-radius: 15px;
+}
+
+.window{
+
+}
+
+.window_upper{
+    color: whitesmoke;
+    background-color: cornflowerblue;
+    align-self: flex-start;
+    text-align: left;
+    padding: 0.2rem 1rem 0 1rem;
+    border-bottom: 3px solid blue;
+    border-radius: 15px 15px 0 0;
+    justify-content: space-between;
+    display: flex;
+}
+.window_lower{
+    color: black;
+    background-color: whitesmoke;
+    padding: 1rem;
+    border-radius: 0 0 15px 15px;
+}
