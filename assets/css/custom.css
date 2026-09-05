@@ -1,14 +1,16 @@
 .div_row{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
+    align-items: center;
     gap:1rem;
 }
 
 .div_column{
     width: 48%;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
     flex-direction: column;
     gap: 1rem;
 }
@@ -19,9 +21,10 @@
     border-radius: 15px;
 }
 
-.window{
+/* ==== DIVS TIPO VENTANA DE WINDOWS ==== */
 
-}
+/* .window{
+} */
 
 .window_upper{
     color: whitesmoke;

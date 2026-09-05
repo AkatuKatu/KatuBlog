@@ -20,6 +20,11 @@ This is a secondary test window. It will most probably show status/updates on th
 
 {{</div>}}
 
-Icon
+{{< figure
+    src="/img/300x400.png"
+    alt="300x400 placeholder"
+    >}}
 
 {{</div>}}
+
+Ea laborum cillum nostrud qui. Voluptate incididunt sit reprehenderit nulla in culpa mollit id excepteur. Commodo irure cillum do mollit elit ad elit nostrud elit.
