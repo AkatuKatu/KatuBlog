@@ -1,9 +1,10 @@
 ---
 title: "Catri"
-date: "2026-05-08"
-lastmod: "2026-05-09"
+date: "2026-08-05"
+lastmod: "2026-09-05"
 draft: false
 description: "A handheld console darkner. She's just glad to have some attention, she doesn't need much really."
+summary: "A TV Darkner. Passionate about videogames, serves lightners by putting on games for them."
 tags:
 - Catri
 - Darkners
@@ -12,6 +13,7 @@ showDateUpdated: true
 showReadingTime: true
 showReadingProgress: true
 showTaxonomies: true
+showSummary: true
 ---
 
 # Catri

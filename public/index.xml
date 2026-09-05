@@ -7,35 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Sat, 09 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Catri</title>
-      <link>http://localhost:1313/posts/catri/</link>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <title>Cino [Shark!Kayden]</title>
+      <link>http://localhost:1313/posts/shark_kayden/</link>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/catri/</guid>
-      <description></description>
+      <guid>http://localhost:1313/posts/shark_kayden/</guid>
+      <description>After breaking a certain contract Kayden has to face the consecuences.</description>
       
     </item>
     
     <item>
-      <title>R. Kayden</title>
-      <link>http://localhost:1313/posts/kayden/</link>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <title>Null!Kayden</title>
+      <link>http://localhost:1313/posts/null_kayden/</link>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/kayden/</guid>
-      <description>A TV Darkner. Passionate about videogames, serves lightners by putting on games for them.</description>
+      <guid>http://localhost:1313/posts/null_kayden/</guid>
+      <description>After so much time alone, Kayden is welcomed to a new home. Not a kind one, but he perseveres.</description>
       
     </item>
     
     <item>
       <title>Ant</title>
       <link>http://localhost:1313/posts/ant/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/ant/</guid>
-      <description></description>
+      <description>A take on Monster Tenna based on Undertale but set in a more modernized world.</description>
+      
+    </item>
+    
+    <item>
+      <title>Catri</title>
+      <link>http://localhost:1313/posts/catri/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/catri/</guid>
+      <description>A TV Darkner. Passionate about videogames, serves lightners by putting on games for them.</description>
+      
+    </item>
+    
+    <item>
+      <title>R. Kayden</title>
+      <link>http://localhost:1313/posts/kayden/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/kayden/</guid>
+      <description>A TV Darkner. Passionate about videogames, serves lightners by putting on games for them.</description>
       
     </item>
     

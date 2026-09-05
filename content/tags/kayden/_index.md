@@ -1,7 +1,6 @@
 ---
 title: "Kayden"
 description: "Collection of Kayden pages."
-menu: main
 groupByYear: false
 ---
 

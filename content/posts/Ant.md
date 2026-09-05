@@ -1,19 +1,19 @@
-
 ---
 title: "Ant"
-description: "Un tema de Hugo moderno y flexible para blogs, documentación, portafolios y más."
-heroLead: "Blowfish te ofrece layouts expresivos, valores predeterminados bien pensados y bloques de contenido prácticos, para que te concentres en lo que quieres contar."
-heroButtons:
-  - label: "Empezar"
-    url: "/es/docs/installation/"
-  - label: "Explorar la documentación"
-    url: "/es/docs/"
-    style: "outline"
-  - label: "Dale una estrella en GitHub"
-    url: "https://github.com/nunocoracao/blowfish"
-    style: "outline"
-    github: "nunocoracao/blowfish"
-heroImage: "images/v3/welcome.png"
+date: "2026-09-05"
+lastmod: "2026-09-05"
+draft: false
+description: "Ant bio page."
+summary: "A take on Monster Tenna based on Undertale but set in a more modernized world."
+tags:
+- Ant
+- AU
+showdate: true
+showDateUpdated: true
+showReadingTime: true
+showReadingProgress: true
+showTaxonomies: true
+showSummary: true
 ---
 
 In short, it's a Monster Tenna story based on Undertale but set in a more modernized world, and it reinterprets the war and some aspects of it. It's also loosely based on the Legend of Hei (especially the theme of the battle between spirits and humans).
