@@ -1,0 +1,7 @@
+[submodule "themes/digio-theme"]
+	path = themes/digio-theme
+	url = https://github.com/danapixels/digio-theme
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
