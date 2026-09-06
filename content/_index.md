@@ -28,11 +28,10 @@ This is a secondary test window. It will most probably show status/updates on th
     nozoom="true"
     >}}
 
-
 {{</div>}}
 
 {{<div class="div_row">}}
-{{<img-link src="/img/200.png" href="/tags/kayden/_index.md" alt="Texto alternativo" >}}
-{{<img-link src="/img/200.png" href="/tags/catri/_index.md" alt="Texto alternativo" >}}
-{{<img-link src="/img/200.png" href="/tags/ant/_index.md" alt="Texto alternativo" >}}
+{{<img-link src="/img/GraficosWeb_Kayden.png" href="/tags/kayden/_index.md" alt="Texto alternativo" >}}
+{{<img-link src="/img/GraficosWeb_Catri.png" href="/tags/catri/_index.md" alt="Texto alternativo" >}}
+{{<img-link src="/img/GraficosWeb_Ant.png" href="/tags/ant/_index.md" alt="Texto alternativo" >}}
 {{</div>}}
