@@ -23,7 +23,7 @@ This is a secondary test window. It will most probably show status/updates on th
 {{</div>}}
 
 {{< figure
-    src="/img/300x400.png"
+    src="/img/Web_Katu.png"
     alt="300x400 placeholder"
     nozoom="true"
     >}}
