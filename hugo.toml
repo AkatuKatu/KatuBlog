@@ -22,6 +22,11 @@ enableEmoji = true
 [markup.goldmark.renderer]
 unsafe = true
 
+# Cache de imagenes
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 # CSS custom
 [params]
 custom_css = ["css/custom.css"]
