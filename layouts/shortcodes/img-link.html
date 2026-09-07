@@ -1,6 +1,7 @@
 {{- $targetPage := .Get "href" -}}
 {{- $resolvedLink := relref . $targetPage -}}
+{{- $class := .Get "class" -}}
 
-<a href="{{ $resolvedLink }}" {{ if .Get "target" }}target="{{ .Get "target" }}"{{ end }}>
-    <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" class="nozoom">
+<a href="{{ $resolvedLink }}" class="{{ $class }}" {{ if .Get "target" }}target="{{ .Get "target" }}"{{ end }}>
+    <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" class="nozoom, {{$class}}">
 </a>

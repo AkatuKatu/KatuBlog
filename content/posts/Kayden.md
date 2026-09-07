@@ -4,7 +4,7 @@ date: "2026-08-05"
 lastmod: "2026-09-05"
 draft: false
 description: "Description of character R.Kayden."
-summary: "A TV Darkner. Passionate about videogames, serves lightners by putting on games for them."
+summary: "Main post about R. Kayden."
 tags:
 - Kayden
 - Darkners
