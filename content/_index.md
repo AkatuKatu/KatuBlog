@@ -29,6 +29,7 @@ This is a secondary test window. It will most probably show status/updates on th
 {{</div>}}
 
 {{<div class="div_row">}}
+
 {{<img-link src="/img/Web_Kayden.png" href="/tags/kayden/_index.md" alt="Texto alternativo" class="pop-up" >}}
 {{<img-link src="/img/Web_Catri.png" href="/tags/catri/_index.md" alt="Texto alternativo" class="pop-up">}}
 {{<img-link src="/img/Web_Ant.png" href="/tags/ant/_index.md" alt="Texto alternativo" class="pop-up" >}}
