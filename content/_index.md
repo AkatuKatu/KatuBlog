@@ -30,7 +30,13 @@ This is a secondary test window. It will most probably show status/updates on th
 
 {{<div class="div_row">}}
 
-{{<img-link src="/img/Web_Kayden.png" href="/tags/kayden/_index.md" alt="Texto alternativo" class="pop-up" >}}
-{{<img-link src="/img/Web_Catri.png" href="/tags/catri/_index.md" alt="Texto alternativo" class="pop-up">}}
-{{<img-link src="/img/Web_Ant.png" href="/tags/ant/_index.md" alt="Texto alternativo" class="pop-up" >}}
+<a href="{{< relref  "/tags/kayden/_index.md" >}}" target="_self">
+    <img src="/img/Web_Kayden.png" alt="Image of Kayden on a window." class="nozoom, pop-up">
+</a>
+<a href="{{< relref  "/tags/catri/_index.md" >}}" target="_self">
+    <img src="/img/Web_Catri.png" alt="Image of Catri on a window." class="nozoom, pop-up">
+</a>
+<a href="{{< relref  "/tags/ant/_index.md" >}}" target="_self">
+    <img src="/img/Web_Ant.png" alt="Image of Ant on a window." class="nozoom, pop-up">
+</a>
 {{</div>}}
