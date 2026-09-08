@@ -38,7 +38,7 @@ This is a secondary test window. It will most probably show status/updates on th
     alt="Image of Kayden in a window."
     class="pop-up"
     nozoom="true"
-    taget="_self"
+    target="_self"
     >}}
 
 {{< figure
@@ -47,7 +47,7 @@ This is a secondary test window. It will most probably show status/updates on th
     alt="Image of Catri in a window."
     class="pop-up"
     nozoom="true"
-    taget="_self"
+    target="_self"
     >}}
 
 {{< figure
@@ -56,7 +56,7 @@ This is a secondary test window. It will most probably show status/updates on th
     alt="Image of Ant in a window."
     class="pop-up"
     nozoom="true"
-    taget="_self"
+    target="_self"
     >}}
 
 {{</div>}}
