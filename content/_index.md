@@ -15,7 +15,7 @@ I'm a 23 y/o 2D and 3D artist, and this is my corner where I play around with my
 {{</window>}}
 
 {{<window>}}
-This is a secondary test window. It will most probably show status/updates on the page when everything is a little more finished up. 8>[^D]
+*08 August 2026 -* <br> Woo-hoo! The web is up and running!!! It's not done nor perfect but it's *usable*.
 {{</window>}}
 
 {{</div>}}
