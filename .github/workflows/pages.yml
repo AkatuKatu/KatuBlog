@@ -61,7 +61,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: https://nunocoracao.github.io/blowfish/
+      url: https://akatukatu.github.io/
     runs-on: ubuntu-latest
     needs: build
     steps:
