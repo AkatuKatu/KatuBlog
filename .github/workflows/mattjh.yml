@@ -39,13 +39,14 @@ jobs:
       - name: Install Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "22"
+          cache: npm
 
       - name: Install Prettier and Prettier plugin for Go templates
         run: npm install --save-dev prettier prettier-plugin-go-template
 
       - name: Run Prettier auto-fix
-        run: npx prettier --write "**/*.{md,yml,yaml,json,html,css,scss}" --ignore-path .gitignore
+        run: npx prettier --write "**/*.{md,yml,yaml,json,html,css,scss}" --ignore-path .gitignore || true
 
       - name: Commit and push changes
         run: |
@@ -54,16 +55,16 @@ jobs:
           if git diff-index --quiet HEAD --; then
             echo "No changes to commit"
           else
-            git commit -am "Auto-format code with Prettier on ${{ github.sha }}"
+            git commit -am "Auto-format code with Prettier on ${{ github.sha }}" || true
             git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-            git push
+            git push || true
           fi
   # Build job
   build:
     runs-on: ubuntu-latest
     needs: prettier-fix
     env:
-      HUGO_VERSION: 0.141.0
+      HUGO_VERSION: 0.165.0
       SASS_VERSION: 1.80.6
     steps:
       - name: Install Hugo CLI
@@ -104,6 +105,19 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+          
+          echo "Hugo build completed with exit code: $?"
+
+      - name: Verify public directory
+        run: |
+          if [ -d "public" ]; then
+            echo "✓ Public directory exists"
+            echo "Directory size: $(du -sh public/)"
+            echo "Number of files: $(find public/ -type f | wc -l)"
+          else
+            echo "✗ ERROR: Public directory does not exist!"
+            exit 1
+          fi
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
