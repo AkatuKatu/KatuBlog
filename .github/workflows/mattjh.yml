@@ -29,7 +29,6 @@ defaults:
 
 jobs:
   # Prettier auto-fix job
-
   prettier-fix:
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
@@ -46,20 +45,19 @@ jobs:
         run: npm install --save-dev prettier prettier-plugin-go-template
 
       - name: Run Prettier auto-fix
-        run: npx prettier --write . || true
+        run: npx prettier --write "**/*.{md,yml,yaml,json,html,css,scss}" --ignore-path .gitignore
 
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
-          git commit -am "Auto-format code with Prettier on ${{ github.sha }}" || echo "No changes to commit"
-
-      - name: Push changes
-        run: |
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'actions@github.com'
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-          git push
+          if git diff-index --quiet HEAD --; then
+            echo "No changes to commit"
+          else
+            git commit -am "Auto-format code with Prettier on ${{ github.sha }}"
+            git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+            git push
+          fi
   # Build job
   build:
     runs-on: ubuntu-latest
