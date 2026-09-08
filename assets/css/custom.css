@@ -39,6 +39,11 @@ body {
     gap: 1rem;
 }
 
+.div_widercolumn{
+    width: 65%!important;
+    text-align: justify;
+}
+
 .prueba3{
     background-color: purple;
     height: 100px;
@@ -66,6 +71,9 @@ body {
     background-color: whitesmoke;
     padding: 1rem;
     border-radius: 0 0 15px 15px;
+& strong{
+    color: #265AA3;
+}
 }
 
 /* ==== Efecto pop-up en hover ==== */

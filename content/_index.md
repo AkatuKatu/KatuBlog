@@ -14,7 +14,7 @@ Hi! I'm Katu! *(she/her)* <br>
 I'm a 23 y/o 2D and 3D artist, and this is my corner where I play around with my OCs and some webdev. :3
 {{</window>}}
 
-{{<window>}}
+{{<window name="Status">}}
 *08 August 2026 -* <br> Woo-hoo! The web is up and running!!! It's not done nor perfect but it's *usable*.
 {{</window>}}
 
