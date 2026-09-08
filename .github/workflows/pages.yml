@@ -45,6 +45,9 @@ jobs:
         with:
           hugo-version: 'latest' # Or specify a version like '0.143.1'
           extended: true         # Blowfish requires the extended versio
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
