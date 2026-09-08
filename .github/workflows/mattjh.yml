@@ -63,7 +63,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: prettier-fix
     env:
-      HUGO_VERSION: 0.128.0
+      HUGO_VERSION: 0.165.0
       SASS_VERSION: 1.80.6
     steps:
       - name: Install Hugo CLI
