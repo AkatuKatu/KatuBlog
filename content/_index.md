@@ -28,15 +28,32 @@ This is a secondary test window. It will most probably show status/updates on th
 
 {{</div>}}
 
+
+
 {{<div class="div_row">}}
 
-<a href="{{< relref  "/tags/kayden/_index.md" >}}" target="_self">
-    <img src="/KatuBlog/img/Web_Kayden.png" alt="Image of Kayden on a window." class="nozoom, pop-up">
-</a>
-<a href="{{< relref  "/tags/catri/_index.md" >}}" target="_self">
-    <img src="/KatuBlog/img/Web_Catri.png" alt="Image of Catri on a window." class="nozoom, pop-up">
-</a>
-<a href="{{< relref  "/tags/ant/_index.md" >}}" target="_self">
-    <img src="/KatuBlog/img/Web_Ant.png" alt="Image of Ant on a window." class="nozoom, pop-up">
-</a>
+{{< figure
+    src="/img/Web_Kayden.png"
+    href="/KatuBlog/tags/kayden/"
+    alt="Image of Kayden in a window."
+    nozoom="true"
+    class="pop-up"
+    >}}
+
+{{< figure
+    src="/img/Web_Catri.png"
+    href="/KatuBlog/tags/catri/"
+    alt="Image of Catri in a window."
+    nozoom="true"
+    class="pop-up"
+    >}}
+
+{{< figure
+    src="/img/Web_Ant.png"
+    href="/KatuBlog/tags/ant/"
+    alt="Image of Ant in a window."
+    nozoom="true"
+    class="pop-up"
+    >}}
+
 {{</div>}}
