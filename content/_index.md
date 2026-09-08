@@ -14,8 +14,6 @@ Hi! I'm Katu! *(she/her)* <br>
 I'm a 23 y/o 2D and 3D artist, and this is my corner where I play around with my OCs and some webdev. :3
 {{</window>}}
 
-<br>
-
 {{<window>}}
 This is a secondary test window. It will most probably show status/updates on the page when everything is a little more finished up. 8>[^D]
 {{</window>}}

@@ -1,60 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on </title>
-    <link>https://your_domain.com/tags/</link>
-    <description>Recent content in Tags on </description>
+    <title>Tags on Katu Blog</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Katu Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2026 </copyright>
-    <lastBuildDate>Sun, 06 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://your_domain.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>AkatuKatu</copyright>
+    <lastBuildDate>Sun, 06 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AU</title>
-      <link>https://your_domain.com/tags/au/</link>
+      <link>http://localhost:1313/tags/au/</link>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://your_domain.com/tags/au/</guid>
+      <guid>http://localhost:1313/tags/au/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Darkners</title>
-      <link>https://your_domain.com/tags/darkners/</link>
+      <link>http://localhost:1313/tags/darkners/</link>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://your_domain.com/tags/darkners/</guid>
+      <guid>http://localhost:1313/tags/darkners/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Kayden</title>
-      <link>https://your_domain.com/tags/kayden/</link>
+      <link>http://localhost:1313/tags/kayden/</link>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://your_domain.com/tags/kayden/</guid>
+      <guid>http://localhost:1313/tags/kayden/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ant</title>
-      <link>https://your_domain.com/tags/ant/</link>
+      <link>http://localhost:1313/tags/ant/</link>
       <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://your_domain.com/tags/ant/</guid>
+      <guid>http://localhost:1313/tags/ant/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Catri</title>
-      <link>https://your_domain.com/tags/catri/</link>
+      <link>http://localhost:1313/tags/catri/</link>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://your_domain.com/tags/catri/</guid>
+      <guid>http://localhost:1313/tags/catri/</guid>
       <description></description>
       
     </item>

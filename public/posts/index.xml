@@ -1,60 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on </title>
-    <link>https://your_domain.com/posts/</link>
-    <description>Recent content in Posts on </description>
+    <title>Posts on Katu Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Katu Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2026 </copyright>
-    <lastBuildDate>Sun, 06 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://your_domain.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>AkatuKatu</copyright>
+    <lastBuildDate>Sun, 06 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Cino [Shark!Kayden]</title>
-      <link>https://your_domain.com/posts/shark_kayden/</link>
+      <link>http://localhost:1313/posts/shark_kayden/</link>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://your_domain.com/posts/shark_kayden/</guid>
+      <guid>http://localhost:1313/posts/shark_kayden/</guid>
       <description>After breaking a certain contract Kayden has to face the consecuences.</description>
       
     </item>
     
     <item>
       <title>Null!Kayden</title>
-      <link>https://your_domain.com/posts/null_kayden/</link>
+      <link>http://localhost:1313/posts/null_kayden/</link>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://your_domain.com/posts/null_kayden/</guid>
+      <guid>http://localhost:1313/posts/null_kayden/</guid>
       <description>After so much time alone, Kayden is welcomed to a new home. Not a kind one, but he perseveres.</description>
       
     </item>
     
     <item>
       <title>Ant</title>
-      <link>https://your_domain.com/posts/ant/</link>
+      <link>http://localhost:1313/posts/ant/</link>
       <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://your_domain.com/posts/ant/</guid>
+      <guid>http://localhost:1313/posts/ant/</guid>
       <description>A take on Monster Tenna based on Undertale but set in a more modernized world.</description>
       
     </item>
     
     <item>
       <title>Catri</title>
-      <link>https://your_domain.com/posts/catri/</link>
+      <link>http://localhost:1313/posts/catri/</link>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://your_domain.com/posts/catri/</guid>
+      <guid>http://localhost:1313/posts/catri/</guid>
       <description>A handheld console darkner. She&amp;rsquo;s just glad to have some attention, she doesn&amp;rsquo;t need much really.</description>
       
     </item>
     
     <item>
       <title>R. Kayden</title>
-      <link>https://your_domain.com/posts/kayden/</link>
+      <link>http://localhost:1313/posts/kayden/</link>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://your_domain.com/posts/kayden/</guid>
+      <guid>http://localhost:1313/posts/kayden/</guid>
       <description>Main post about R. Kayden.</description>
       
     </item>

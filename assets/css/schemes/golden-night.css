@@ -1,0 +1,37 @@
+  /* Slate scheme */
+:root {
+  --color-neutral: 255, 255, 255;
+  /* Gray */
+  --color-neutral-50: 249, 250, 251;
+  --color-neutral-100: 243, 244, 246;
+  --color-neutral-200: 229, 231, 235;
+  --color-neutral-300: 209, 213, 219;
+  --color-neutral-400: 156, 163, 175;
+  --color-neutral-500: 107, 114, 128;
+  --color-neutral-600: 75, 85, 99;
+  --color-neutral-700: 55, 65, 81;
+  --color-neutral-800: 31, 41, 55;
+  --color-neutral-900: 17, 24, 39;
+  /* Slate */
+  --color-primary-50: 255, 251, 235;
+  --color-primary-100: 255, 237, 212;
+  --color-primary-200: 254, 230, 133;
+  --color-primary-300: 255, 210, 48;
+  --color-primary-400: 255, 185, 0;
+  --color-primary-500: 254, 154, 0;
+  --color-primary-600: 225, 113, 0;
+  --color-primary-700: 187, 77, 0;
+  --color-primary-800: 151, 60, 0;
+  --color-primary-900: 123, 51, 6;
+  /* Gray */
+  --color-secondary-50: 249, 250, 251;
+  --color-secondary-100: 243, 244, 246;
+  --color-secondary-200: 229, 231, 235;
+  --color-secondary-300: 209, 213, 219;
+  --color-secondary-400: 156, 163, 175;
+  --color-secondary-500: 107, 114, 128;
+  --color-secondary-600: 75, 85, 99;
+  --color-secondary-700: 55, 65, 81;
+  --color-secondary-800: 31, 41, 55;
+  --color-secondary-900: 17, 24, 39;
+}
