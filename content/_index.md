@@ -36,24 +36,27 @@ This is a secondary test window. It will most probably show status/updates on th
     src="/img/Web_Kayden.png"
     href="/KatuBlog/tags/kayden/"
     alt="Image of Kayden in a window."
-    nozoom="true"
     class="pop-up"
+    nozoom="true"
+    taget="_self"
     >}}
 
 {{< figure
     src="/img/Web_Catri.png"
     href="/KatuBlog/tags/catri/"
     alt="Image of Catri in a window."
-    nozoom="true"
     class="pop-up"
+    nozoom="true"
+    taget="_self"
     >}}
 
 {{< figure
     src="/img/Web_Ant.png"
     href="/KatuBlog/tags/ant/"
     alt="Image of Ant in a window."
-    nozoom="true"
     class="pop-up"
+    nozoom="true"
+    taget="_self"
     >}}
 
 {{</div>}}
