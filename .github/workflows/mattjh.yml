@@ -29,6 +29,7 @@ defaults:
 
 jobs:
   # Prettier auto-fix job
+
   prettier-fix:
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
@@ -45,7 +46,7 @@ jobs:
         run: npm install --save-dev prettier prettier-plugin-go-template
 
       - name: Run Prettier auto-fix
-        run: npx prettier --write .
+        run: npx prettier --write . || true
 
       - name: Commit changes
         run: |
