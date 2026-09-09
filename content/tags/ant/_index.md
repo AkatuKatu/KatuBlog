@@ -30,4 +30,5 @@ I still need an updated reference for Ant so for now have some sketches.
   <img src="/img/ant/MagmaAnt.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="/img/ant/ThenAndNowANT.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="/img/ant/tbymm_pfp.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="/img/ant/BuggyTennaStuff2.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
   {{</gallery>}}

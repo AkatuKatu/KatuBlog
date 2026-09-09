@@ -2,7 +2,7 @@
 title: "Null!Kayden"
 date: "2026-09-06"
 lastmod: "2026-09-06"
-draft: false
+draft: true
 description: "Quick overview of the null version of Kayden."
 summary: "After so much time alone, Kayden is welcomed to a new home. Not a kind one, but he perseveres."
 tags:
