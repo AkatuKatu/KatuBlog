@@ -86,3 +86,10 @@ body {
 
 }
 
+/* === MEDIA QUERY == */
+
+@media (max-width: 853px){
+    .div_row{
+    flex-direction: column;
+}
+}
