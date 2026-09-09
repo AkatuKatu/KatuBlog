@@ -1,8 +1,9 @@
 
 {{- $name := .Get "name" | default "window" | markdownify}}
 {{- $ico := .Get "icon" | default "X" | markdownify}}
+{{- $class := .Get "class" | default ""}}
 
-<div class="window">
+<div class="window, {{ $class }}">
     <div class="window_upper">
         <div>
         {{$name}}

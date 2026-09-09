@@ -11,6 +11,8 @@ body {
     background-size: 24px 24px;
 } 
 
+/* ==== SCROLLBAR ==== */
+
     }
   .bf-scrollbar {
 
@@ -21,6 +23,29 @@ body {
       --scrollbar-track: oklch(14.191% 0.0263 251.314)(26.9% 0 0);
     }
   }
+
+/* ==== Degradado negro y dorado ==== */
+
+.fancybox {
+
+  border: 3px solid transparent;
+  border-radius: 12px;
+  padding: 24px;
+  background:
+    linear-gradient(#FFFFFF, #FFFFFF) padding-box,
+    linear-gradient(135deg, #f7971e 0%, #ffd200 100%) border-box;
+  -webkit-background-clip: padding-box, border-box;
+  background-clip: padding-box, border-box;
+  
+  &:is(.dark *) {
+      background:
+    linear-gradient(#1F2937, #1F2937) padding-box,
+    linear-gradient(135deg, #f7971e 0%, #ffd200 100%) border-box;
+  }
+
+}
+
+/* ======= DIVS ====== */
 
 .div_row{
     display: flex;

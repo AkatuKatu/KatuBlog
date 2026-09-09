@@ -9,20 +9,23 @@ A TV Darkner based around retro games.
 
 ![R. Kayden reference drawing](/img/Ref_RKayden.png )
 
+<div class="fancybox">
 {{< article link="/KatuBlog/posts/kayden/" showSummary=true >}}
+</div>
 
 {{<div class="div_row">}}
 
 
-{{<div class="div_column,  div_widercolumn">}}
+{{<window name="Description" class="div_widercolumn">}}
 In the lightworld they're a well-cared for small TV used for retro gaming. <br>
 In the darkworld he's a very servicial but perfectionist host, making sure the games he puts on for his lightners are always on point.
-{{</div>}}
+{{</window>}}
 
 {{<window name="About">}}
 **Pronouns:** He/They <br>
 **Age:** 30(-ish) y/o <br>
-**Height:** 2m
+**Height:** 2m <br>
+[***YT Music Playlist***](https://music.youtube.com/playlist?list=PLz_QyiTmlK2Ouwd3gZtyu7s2-ca9F1gCt&si=O1gDKaxXmfaBqCev)
 {{</window>}}
 
 {{</div>}}
