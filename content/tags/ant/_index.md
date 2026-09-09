@@ -14,9 +14,9 @@ Ant (Tenna) is an ant boss moster. He used to have his own TV studio, though aft
 {{</window>}}
 
 {{<window name="About">}}
-**Pronouns:** He/They <br>
-**Age:** 30(-ish) y/o <br>
-**Height:** 2,3m - 2,6m <br>
+**Pronouns:** He/Him <br>
+**Age:** 100~ y/o <br>
+**Height:** 2,3m ~ 2,6m <br>
 {{</window>}}
 
 {{</div>}}

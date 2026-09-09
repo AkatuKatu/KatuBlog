@@ -123,13 +123,13 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showSummary = false
   showViews = false
   showLikes = false
-  showTableOfContents = false
-  showCards = false
+  showTableOfContents = true
+  showCards = true
   orderByWeight = false
-  groupByYear = true
-  cardView = false
-  cardViewScreenWidth = false
-  constrainItemsWidth = false
+  groupByYear = false
+  cardView = true
+  cardViewScreenWidth = true
+  constrainItemsWidth = true
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
