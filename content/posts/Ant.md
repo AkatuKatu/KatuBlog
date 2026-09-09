@@ -1,9 +1,9 @@
 ---
-title: "Ant"
+title: "Ant Backstory"
 date: "2026-09-05"
 lastmod: "2026-09-05"
 draft: false
-description: "Ant bio page."
+description: "Ant's backstory."
 summary: "A take on Monster Tenna based on Undertale but set in a more modernized world."
 tags:
 - Ant

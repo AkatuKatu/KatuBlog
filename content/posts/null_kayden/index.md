@@ -17,7 +17,7 @@ showTaxonomies: true
 showSummary: true
 ---
 {{<lead>}}
-Already deeply hurt by the abandonmnet, the abuse and missuse fully breaks Kayden, remaking himself from the ground up.
+Already deeply hurt by abandonmnet, the abuse and missuse fully breaks Kayden, remaking himself from the ground up.
 {{</lead>}}
 
 ![First sketches of Null Kayden](images/Null_RKayden.png "First sketches of Null!Kayden.")
@@ -36,4 +36,4 @@ I think i don't take enough into account that R. Kayden is actually pretty well 
 * Fake ass mf , also a fake it till you make it pro
 * Bad tendency to see others as stepping stones.  However he will always try to get to their good side, and gets annoyed when they dislike him. Kind of a "with me or against me" mentality.
 * Doesn't deny himself what he wants, at most he just postpones it.
-* Much more forward, though less loyal.
+* Much more forward, though less loyal.>}}
