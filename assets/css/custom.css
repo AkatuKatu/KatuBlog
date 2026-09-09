@@ -92,4 +92,9 @@ body {
     .div_row{
     flex-direction: column;
 }
+
+.div_column{
+    width: 80%;
+}
+
 }
