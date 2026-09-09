@@ -10,7 +10,7 @@ A take on Monster Tenna based on Undertale but set in a more modernized world.
 {{<div class="div_row">}}
 
 {{<window name="Description" class="div_widercolumn">}}
-Ant (Tenna) is an ant boss moster. He used to have his own TV studio, though after the war he stayed away from.
+Ant (Tenna) is an ant boss moster. He used to have his own TV studio, though after the war he stayed away from civilization, nothing more than a legend about a monster in the woods.
 {{</window>}}
 
 {{<window name="About">}}
