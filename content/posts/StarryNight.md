@@ -3,8 +3,8 @@ title: "Starry nights [Ant]"
 date: "2026-09-09"
 lastmod: "2026-09-09"
 draft: true
-description: "An exploration in the nights during the monster war."
-summary: "An exploration in the nights during the monster war."
+description: "A short exploration of the nights during the monster war."
+summary: "A short exploration of the nights during the monster war."
 tags:
 - Ant
 - AU
