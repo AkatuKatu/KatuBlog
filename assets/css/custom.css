@@ -11,6 +11,12 @@ body {
     background-size: 24px 24px;
 } 
 
+.article-content {
+  max-width: 75ch!important;
+  max-width: 100% !important;
+}
+
+
 /* ==== SCROLLBAR ==== */
 
     }

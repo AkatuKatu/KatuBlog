@@ -2,6 +2,7 @@
 title: "Ant"
 description: "Collection of Ant pages."
 groupByYear: false
+layout: list_2
 ---
 {{<lead>}}
 A take on Monster Tenna based on Undertale but set in a more modernized world.
@@ -9,15 +10,17 @@ A take on Monster Tenna based on Undertale but set in a more modernized world.
 
 {{<div class="div_row">}}
 
-{{<window name="Description" class="div_widercolumn">}}
-Ant (Tenna) is an ant boss moster. He used to have his own TV studio, though after the war he stayed away from civilization, nothing more than a legend about a monster in the woods.
-{{</window>}}
-
 {{<window name="About">}}
 **Pronouns:** He/Him <br>
 **Age:** 100~ y/o <br>
 **Height:** 2,3m ~ 2,6m <br>
 {{</window>}}
+
+
+{{<window name="Description" class="div_widercolumn">}}
+Ant (Tenna) is an ant boss moster. He used to have his own TV studio, though after the war he stayed away from civilization, nothing more than a legend about a monster in the woods.
+{{</window>}}
+
 
 {{</div>}}
 <br>
