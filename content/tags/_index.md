@@ -2,7 +2,7 @@
 title: "Tags"
 description: "Index of tags present in the blog."
 menu: main
-groupByYear: false
+# groupByYear: false
 
 ---
 

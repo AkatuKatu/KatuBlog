@@ -2,7 +2,8 @@
 title: "Ant"
 description: "Collection of Ant pages."
 groupByYear: false
-layout: list_2
+# layout: list_2
+
 ---
 {{<lead>}}
 A take on Monster Tenna based on Undertale but set in a more modernized world.
@@ -34,4 +35,7 @@ I still need an updated reference for Ant so for now have some sketches.
   <img src="/img/ant/ThenAndNowANT.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="/img/ant/tbymm_pfp.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="/img/ant/BuggyTennaStuff2.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  {{</gallery>}}
+{{</gallery>}}
+
+
+{{<list limit=100 cardView=true where="Type" value="Ant">}}
